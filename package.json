@@ -1,0 +1,19 @@
+{
+  "name": "javatotypescipt",
+  "version": "1.0.0",
+  "description": "Convert All Java assignment to typescipt code",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hardikd92/JavaToTypescipt.git"
+  },
+  "author": "Hardik Bhatia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hardikd92/JavaToTypescipt/issues"
+  },
+  "homepage": "https://github.com/hardikd92/JavaToTypescipt#readme"
+}
